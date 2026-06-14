@@ -1,4 +1,9 @@
+<h1 align="center">Hi 👋, I'm Poorvika N P</h1>
+<h3 align="center">AI & Software Engineering Enthusiast from India 🇮🇳</h3>
 
+<p align="center">
+  Building AI-powered applications | Exploring Backend Systems | Open Source Learner
+</p>
 # 💫 About Me:
 
 🎓 #3rd-year Information Science Engineering student passionate about Applied AI & ML Systems
