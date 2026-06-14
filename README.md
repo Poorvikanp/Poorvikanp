@@ -54,4 +54,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Poorvikanp&theme=tokyonight)]
 
-![snake gif](https://github.com/Poorvikanp/Poorvikanp/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Poorvikanp/Poorvikanp/output/github-contribution-grid-snake.svg)
