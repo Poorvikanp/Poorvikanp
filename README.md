@@ -50,8 +50,3 @@
 [GitHub](https://github.com/Poorvikanp)
 
 
-![](https://komarev.com/ghpvc/?username=Poorvikanp&color=blue)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Poorvikanp&theme=tokyonight)]
-
-![snake gif](https://raw.githubusercontent.com/Poorvikanp/Poorvikanp/output/github-contribution-grid-snake.svg)
