@@ -41,3 +41,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Poorvikanp&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvikanp&layout=compact&theme=tokyonight)
+
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/poorvikanp2917)
+
+[GitHub](https://github.com/Poorvikanp)
+
+
+![](https://komarev.com/ghpvc/?username=Poorvikanp&color=blue)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Poorvikanp&theme=tokyonight)]
+
+![snake gif](https://github.com/Poorvikanp/Poorvikanp/blob/output/github-contribution-grid-snake.svg)
