@@ -13,7 +13,6 @@
 
 - 🎓 Final-year Information Science Engineering student at Vidyavardhaka College of Engineering, Mysuru (2023–2027)
 - 🤖 Building with RAG, LangGraph, agentic workflows, and LLM-powered automation
-- 🔭 Currently working on **IncidentIntel** — automated incident RCA using Granger causality, survival analysis & RAG
 - 🌱 Deep-diving into agentic AI patterns: tool calling, memory, planning loops, multi-agent systems
 - 📫 Reach me: poorvikanp245@gmail.com
 
