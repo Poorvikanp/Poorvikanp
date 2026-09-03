@@ -51,7 +51,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvikanp&layout=compact&theme=tokyonight)
 
 
-<h1 align="center">Hi 👋, I'm Poorvika</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer+%40+Suprazo;Building+Agentic+AI+Systems;Final+Year+ISE+%40+VVCE+Mysuru;Always+Shipping+Something+New" alt="Typing SVG" />
