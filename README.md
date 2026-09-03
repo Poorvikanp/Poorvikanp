@@ -61,9 +61,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Poorvikanp&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Poorvikanp/Poorvikanp/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ## 🌐 Connect With Me
 
