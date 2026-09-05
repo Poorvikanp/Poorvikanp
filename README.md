@@ -48,7 +48,14 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Poorvikanp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvikanp&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poorvikanp&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
