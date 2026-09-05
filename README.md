@@ -57,6 +57,48 @@ c
   <img src="https://streak-stats.demolab.com?user=Poorvikanp&theme=tokyonight&hide_border=true" />
 </p>
 
+
+
+## 🤖 Developer Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poorvikanp&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Poorvika's%20GitHub%20Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvikanp&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" height="180"/>
+</p>
+
+
+
+## 🏆 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Poorvikanp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poorvikanp&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poorvikanp&theme=tokyo-night&hide_border=true" />
+</p>
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poorvikanp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvikanp&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Poorvikanp&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ## 🌐 Connect With Me
 
 [LinkedIn](https://linkedin.com/in/poorvikanp2917) · [GitHub](https://github.com/Poorvikanp)
