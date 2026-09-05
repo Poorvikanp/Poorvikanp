@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Automation+Engineer;RAG+%2B+Agentic+AI+Systems;LangGraph+%7C+FastAPI+%7C+React;Open+to+Full-Time+Opportunities" />
 </p>
-
+c
 <p align="center">
   Building production AI systems | RAG & Multi-Agent Architectures | Full Stack AI Engineering
 </p>
@@ -58,7 +58,16 @@
 </p>
 
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Poorvikanp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvikanp&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Poorvikanp&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🌐 Connect With Me
 
