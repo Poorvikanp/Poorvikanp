@@ -48,14 +48,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Poorvikanp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvikanp&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Poorvikanp&theme=tokyonight&hide_border=true" />
 </p> -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Poorvikanp&theme=tokyonight&hide_border=true" />
+</p> 
 
 
 ## 🌐 Connect With Me
